@@ -1,10 +1,10 @@
 # im_practical_programming
-This is a monorepo for a collection of scripts and functionality, some practical and useful day to day, others with no redeeming usefulness other than fun! Sub folders from this directory each represent a distinct project.
+This is a landing page for a collection of scripts and projects, some practical and useful day to day, others with no redeeming usefulness other than fun! See below projects and links:
 
 ## all_seeing_drone  
-A project to introduce autonomous movement and face-following for a robolink CoDrone. See the README [here](https://github.com/MZandtheRaspberryPi/im_practical_programming/tree/master/all_seeing_drone).  
+A project to introduce autonomous movement and face-following for a robolink CoDrone. See the README [here](https://github.com/MZandtheRaspberryPi/all_seeing_drone).  
 
-![Demo of Autonomous Drone](all_seeing_drone/drone.gif)  
+![Demo of Autonomous Drone](drone.gif)  
 Bottom left: processed drone video with debug information  
 Top left: cell phone camera in corner of room, showing drone flying  
 Right: raw drone input video  
