@@ -18,5 +18,5 @@ A guide on how to setup a Raspberry Pi with an emphasis on security, without a k
 ![pi_guide.png](./pi_guide.png)    
 
 ## Alexa and Raspberry Pi Lamp
-A guide/demo on how to control a Raspberry Pi Lamp using an Echo Dot. See the guide [here](https://github.com/MZandtheRaspberryPi/alexa_lamp)    
+A demo on how to control a Raspberry Pi Lamp using an Echo Dot. See the repo with links to guides [here](https://github.com/MZandtheRaspberryPi/alexa_lamp)    
 ![alexa_light_demo](./alexa_light_demo.gif)
