@@ -20,3 +20,6 @@ A guide on how to setup a Raspberry Pi with an emphasis on security, without a k
 ## Alexa and Raspberry Pi Lamp
 A demo on how to control a Raspberry Pi Lamp using an Echo Dot. See the repo with links to guides [here](https://github.com/MZandtheRaspberryPi/alexa_lamp)    
 ![alexa_light_demo](./alexa_light_demo.gif)
+
+## Mood Lamp Guide
+Here's a guide that is more a collection of tutorials to help you get your raspberry pi mood lamp kit from pimoroni up and running. Check it out [here](https://github.com/MZandtheRaspberryPi/mood_lamp_guide/blob/main/README.md)
