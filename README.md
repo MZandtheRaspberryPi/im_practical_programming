@@ -22,9 +22,9 @@ A demo on how to control a Raspberry Pi Lamp using an Echo Dot. See the repo wit
 ![alexa_light_demo](./alexa_light_demo.gif)
 
 ## Mood Lamp Guide
-Here's a guide that is more a collection of tutorials to help you get your raspberry pi mood lamp kit from pimoroni up and running. Check it out [here](https://github.com/MZandtheRaspberryPi/mood_lamp_guide/blob/main/README.md)
+Here's a guide that is more a collection of tutorials to help you get your raspberry pi mood lamp kit from pimoroni up and running. Check it out [here](https://github.com/MZandtheRaspberryPi/mood_lamp_guide/blob/main/README.md)    
 ![alexa_light_demo](./alexa_light_demo.gif)
 
 ## Buddy Robot Dance with ROS
-This was a fun project to get a robot to dance using ROS. I used a robot from Slant Concepts and recoded it to work with ROS, via rosserial and a bluetooth connection. Check it out [here](https://github.com/MZandtheRaspberryPi/mood_lamp_guide/blob/main/README.md)
+This was a fun project to get a robot to dance using ROS. I used a robot from Slant Concepts and recoded it to work with ROS, via rosserial and a bluetooth connection. Check it out [here](https://github.com/MZandtheRaspberryPi/mood_lamp_guide/blob/main/README.md)    
 ![buddy_dance](./buddy_dance.gif)
