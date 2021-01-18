@@ -26,5 +26,5 @@ Here's a guide that is more a collection of tutorials to help you get your raspb
 ![alexa_light_demo](./alexa_light_demo.gif)
 
 ## Buddy Robot Dance with ROS
-This was a fun project to get a robot to dance using ROS. I used a robot from Slant Concepts and recoded it to work with ROS, via rosserial and a bluetooth connection. Check it out [here](https://github.com/MZandtheRaspberryPi/mood_lamp_guide/blob/main/README.md).    
+This was a fun project to get a robot to dance using ROS. I used a robot from Slant Concepts and recoded it to work with ROS, via rosserial and a bluetooth connection. Check it out [here](https://github.com/MZandtheRaspberryPi/ros_buddy).    
 ![buddy_dance](./buddy_dance.gif)
