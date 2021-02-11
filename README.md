@@ -33,3 +33,6 @@ This was a fun project to get a robot to dance using ROS. I used a robot from Sl
 This was a fun project where I 3d printed the robot, planned the hardware, assembled, and used a fellow robot builder's ROS Repo to get it walking. I contributed a bit to the robot builder's ROS repo as well. Check it out [here](https://github.com/MZandtheRaspberryPi/spot_micro_demo).    
 ![spot_micro_demo](./spot_micro_demo.gif)    
 
+## Pi Watch    
+This was a project to make a raspberry pi watch that can check buses near my apartment, show the weather, and turn off with button presses. Check out the repo [here](https://github.com/MZandtheRaspberryPi/pi_watch).    
+![pi_watch.gif](./pi_watch.gif)    
