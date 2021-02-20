@@ -29,10 +29,6 @@ Here's a guide that is more a collection of tutorials to help you get your raspb
 This was a fun project to get a robot to dance using ROS. I used a robot from Slant Concepts and recoded it to work with ROS, via rosserial and a bluetooth connection. Check it out [here](https://github.com/MZandtheRaspberryPi/ros_buddy).    
 ![buddy_dance](./buddy_dance.gif)    
 
-## Minecraft Server on your Pi
-This has some links to guides to setup a minecraft server on your pi, as well as some tips on running the server and extra commands! Check it out [here](https://github.com/MZandtheRaspberryPi/pi_minecraft/blob/main/README.md).     
-
-
 ## Spot Micro Robot
 This was a fun project where I 3d printed the robot, planned the hardware, assembled, and used a fellow robot builder's ROS Repo to get it walking. I contributed a bit to the robot builder's ROS repo as well. Check it out [here](https://github.com/MZandtheRaspberryPi/spot_micro_demo) and a video showing off the project [here](https://youtu.be/g6FMSfrcahk).    
 ![spot_micro_demo](./spot_micro_demo.gif)    
@@ -40,3 +36,7 @@ This was a fun project where I 3d printed the robot, planned the hardware, assem
 ## Pi Watch    
 This was a project to make a raspberry pi watch that can check buses near my apartment, show the weather, and turn off with button presses. Check out the repo [here](https://github.com/MZandtheRaspberryPi/pi_watch) and a video showing off the project [here](https://www.youtube.com/watch?v=JhEXCvS3W6M).    
 ![pi_watch.gif](./pi_watch.gif)    
+
+## Minecraft Server on your Pi
+This has some links to guides to setup a minecraft server on your pi, as well as some tips on running the server and extra commands! Check it out [here](https://github.com/MZandtheRaspberryPi/pi_minecraft/blob/main/README.md).     
+~[minecraft](./minecraft.png)
