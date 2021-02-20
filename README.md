@@ -39,4 +39,4 @@ This was a project to make a raspberry pi watch that can check buses near my apa
 
 ## Minecraft Server on your Pi
 This has some links to guides to setup a minecraft server on your pi, as well as some tips on running the server and extra commands! Check it out [here](https://github.com/MZandtheRaspberryPi/pi_minecraft/blob/main/README.md).     
-~[minecraft](./minecraft.png)
+![minecraft](./minecraft.png)
