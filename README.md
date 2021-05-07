@@ -16,7 +16,7 @@ Here's a youtube video showing off the project. There's a link in the descriptio
 [Making a PB&J with autonomous drone camera-person](https://www.youtube.com/watch?v=P_NQB7phWnQ&t)  
 
 ### Spot Micro Robot
-This was a fun project where I 3d printed the robot, planned the hardware, assembled, and used a fellow robot builder's ROS Repo to get it walking. I contributed a bit to the robot builder's ROS repo as well. Check it out [here](https://github.com/MZandtheRaspberryPi/spot_micro_demo) and a video showing off the project [here](https://youtu.be/g6FMSfrcahk).    
+This was a fun project where I 3d printed the robot, planned the hardware, assembled, and used a fellow robot builder's ROS Repo to get it walking. I contributed a bit to the robot builder's ROS repo as well. Check it out [here](https://github.com/MZandtheRaspberryPi/spot_micro_demo).   
 ![spot_micro_demo](./spot_micro_demo.gif)   
 
 ### robo_arm
