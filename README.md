@@ -4,7 +4,7 @@ This is a landing page for a collection of scripts and projects, some practical 
 ## Big Projects
 
 ### all_seeing_drone  
-A project to introduce autonomous movement and face-following for a robolink CoDrone. See the README [here](https://github.com/MZandtheRaspberryPi/all_seeing_drone).  
+A project to introduce autonomous movement and face-following for a robolink CoDrone. I used the CoDrone API which lets you command roll, pitch, yaw, and throttle, but built a lot of functionality on top of that to do tracking, and in some cases rewrote bits of the CoDrone API to work with my needs. See the README [here](https://github.com/MZandtheRaspberryPi/all_seeing_drone).  
 
 ![Demo of Autonomous Drone](drone.gif)  
 Bottom left: processed drone video with debug information  
