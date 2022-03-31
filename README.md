@@ -31,6 +31,11 @@ This is a robot arm project that I built from the ground up, including the softw
 
 [Here](https://www.youtube.com/watch?v=9vvvBXWQKJA) is a demo of the arduino based version of the arm, and [here](https://www.youtube.com/watch?v=Fptv3H4Jj54) is a demo of the ros based version of the arm.  
 
+### magic_box
+This was a magical light box I built for a friend getting married. It has animations, looks pretty, and lets the user set the color for some of the animaetions. You can get to the repo with more details [here](https://github.com/MZandtheRaspberryPi/magic_box).  
+![magic box 1](20220318_081823_cropped.jpg)  
+![magic box 2](20220316_223055.jpg)  
+
 ### Buddy Robot Dance with ROS
 This was a fun project to get a robot to dance using ROS. I used a robot from Slant Concepts and re-coded it to work with ROS, via rosserial and a bluetooth connection. Check it out [here](https://github.com/MZandtheRaspberryPi/ros_buddy).    
 ![buddy_dance](./buddy_dance.gif)    
