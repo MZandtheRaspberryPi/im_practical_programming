@@ -46,7 +46,7 @@ This was a project to make a raspberry pi watch that can check buses near my apa
 
 # prod_disaster_counter
 This was a project I did for a friend who works in software. I thought it could be fun for them to visualize days without an incident, and maybe they can talk the boss into a pizza party when the days make it past milestones! You can find a video demo [here](https://www.youtube.com/shorts/DNOm6Y0vupc).  
-![demo_gif](demo_assets/6grrx0.gif)  
+![demo_gif](6grrx0.gif)  
 
 ## Smaller Projects
 
