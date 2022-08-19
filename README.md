@@ -44,11 +44,11 @@ This was a fun project to get a robot to dance using ROS. I used a robot from Sl
 This was a project to make a raspberry pi watch that can check buses near my apartment, show the weather, and turn off with button presses. Check out the repo [here](https://github.com/MZandtheRaspberryPi/pi_watch) and a video showing off the project [here](https://www.youtube.com/watch?v=JhEXCvS3W6M).    
 ![pi_watch.gif](./pi_watch.gif)   
 
-# prod_disaster_counter 
+### prod_disaster_counter 
 This was a fun project to make a little device that can count things for people, like days in a row they've meditated, practiced a musical instrument, or gone for a walk. I made two versions of this. The first was hastily done on a prototyping board, the second was designed and manufactured to be prettier and more functional.  
 
 You can see a video demo [here](https://www.youtube.com/watch?v=l-LTvP333-I).  
-![demo_gif](./demo_assets/ezgif.com-gif-maker.gif)
+![demo_gif](./ezgif.com-gif-maker.gif)
 
 ## Smaller Projects
 
