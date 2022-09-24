@@ -48,7 +48,12 @@ This was a project to make a raspberry pi watch that can check buses near my apa
 This was a fun project to make a little device that can count things for people, like days in a row they've meditated, practiced a musical instrument, or gone for a walk. I made two versions of this. The first was hastily done on a prototyping board, the second was designed and manufactured to be prettier and more functional. You can find the documentation including cad, ecad, and code [here](https://github.com/MZandtheRaspberryPi/prod_disaster_counter).  
 
 You can see a video demo [here](https://www.youtube.com/watch?v=l-LTvP333-I).  
-![demo_gif](./ezgif.com-gif-maker.gif)
+![demo_gif](./ezgif.com-gif-maker.gif)  
+
+### Tableau Wine Night
+This was a fun project to create a dataset from a winetasting I did among friends. From there I analyzed the data, created metrics, and presented an interactive visualization on it via Tableau Public. Find it [here](https://public.tableau.com/app/profile/michael.ziegltrum/viz/WineNight/TheStoryofWineNight).  
+![wine_night](./wine_night.PNG)  
+
 
 ## Smaller Projects
 
