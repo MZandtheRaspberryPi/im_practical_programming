@@ -38,9 +38,8 @@ You can see a video demo [here](https://www.youtube.com/watch?v=l-LTvP333-I).
 ![demo_gif](./ezgif.com-gif-maker.gif)  
 
 ### Ultrasonic Bat
-This was a project I did with a group of friends. It is a small bat to hang on a christmas tree or put on a desk, that has ultrasonic sensors, RGB lights in the wings, and an OLED screen for a face. It can react when it sees things in front of it! I did all the 3d design and printing, as well as some of the software work relating to the oled and facial animations. You can find more info [here](https://github.com/MZandtheRaspberryPi/holiday_project_2022/).  
+This was a project I organized and led with a group of friends. It is a small bat to hang on a christmas tree or put on a desk, that has ultrasonic sensors, RGB lights in the wings, and an OLED screen for a face. It can react when it sees things in front of it! I did all the 3d design and printing, as well as some of the software work relating to the oled and facial animations. I also coordinated with the hardware group, the software group, and the design group to make sure all the intermediate pieces worked together in the end product. You can find more info [here](https://github.com/MZandtheRaspberryPi/holiday_project_2022/).  
 ![ultrasonic bat](20221215_195046.jpg)  
-
 
 ### magic_box
 This was a magical light box I built for a friend getting married. It has animations, looks pretty, and lets the user set the color for some of the animaetions. You can get to the repo with more details [here](https://github.com/MZandtheRaspberryPi/magic_box).  
