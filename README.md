@@ -31,6 +31,12 @@ This is a robot arm project that I built from the ground up, including the softw
 
 [Here](https://www.youtube.com/watch?v=9vvvBXWQKJA) is a demo of the arduino based version of the arm, and [here](https://www.youtube.com/watch?v=Fptv3H4Jj54) is a demo of the ros based version of the arm.  
 
+### prod_disaster_counter 
+This was a fun project to make a little device that can count things for people, like days in a row they've meditated, practiced a musical instrument, or gone for a walk. I made two versions of this. The first was hastily done on a prototyping board, the second was designed and manufactured to be prettier and more functional. You can find the documentation including cad, ecad, and code [here](https://github.com/MZandtheRaspberryPi/prod_disaster_counter).  
+
+You can see a video demo [here](https://www.youtube.com/watch?v=l-LTvP333-I).  
+![demo_gif](./ezgif.com-gif-maker.gif)  
+
 ### Ultrasonic Bat
 This was a project I did with a group of friends. It is a small bat to hang on a christmas tree or put on a desk, that has ultrasonic sensors, RGB lights in the wings, and an OLED screen for a face. It can react when it sees things in front of it! I did all the 3d design and printing, as well as some of the software work relating to the oled and facial animations. You can find more info [here](https://github.com/MZandtheRaspberryPi/holiday_project_2022/).  
 ![ultrasonic bat](20221215_195046.jpg)  
@@ -48,12 +54,6 @@ This was a fun project to get a robot to dance using ROS. I used a robot from Sl
 ### Pi Watch    
 This was a project to make a raspberry pi watch that can check buses near my apartment, show the weather, and turn off with button presses. Check out the repo [here](https://github.com/MZandtheRaspberryPi/pi_watch) and a video showing off the project [here](https://www.youtube.com/watch?v=JhEXCvS3W6M).    
 ![pi_watch.gif](./pi_watch.gif)   
-
-### prod_disaster_counter 
-This was a fun project to make a little device that can count things for people, like days in a row they've meditated, practiced a musical instrument, or gone for a walk. I made two versions of this. The first was hastily done on a prototyping board, the second was designed and manufactured to be prettier and more functional. You can find the documentation including cad, ecad, and code [here](https://github.com/MZandtheRaspberryPi/prod_disaster_counter).  
-
-You can see a video demo [here](https://www.youtube.com/watch?v=l-LTvP333-I).  
-![demo_gif](./ezgif.com-gif-maker.gif)  
 
 ### Tableau Wine Night
 This was a fun project to create a dataset from a winetasting I did among friends. From there I analyzed the data, created metrics, and presented an interactive visualization on it via Tableau Public. Find it [here](https://public.tableau.com/app/profile/michael.ziegltrum/viz/WineNight/TheStoryofWineNight).  
