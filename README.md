@@ -9,6 +9,10 @@ This is a project where I designed, manufactured, and coded a digital compass th
 ![compass_pic_2](IMG_20231012_140624.jpg)  
 ![compass_demo](82od5m.gif)  
 
+### robodanceproject.com
+This is a project where I implemented a front end in Angular and a back end in C++ to explore and visualize forward kinematics for a quadruped robot.  I deployed this using Amazon Web Service's Lightsail. Find the repo [here](https://github.com/MZandtheRaspberryPi/doggy_dance_project) and the webapp you can interact with [here](http://robodanceproject.com/).
+![robo_dance](robo_dance_project.png)  
+
 ### toulouse_rover
 This was a fun project I did to build an autonomous car, using a lidar. I did the robot design, hardware, and software by myself. It supports kinematics for differential drive, skid steering, and omni wheels, and a fourth fixed slow speed mode which is good for autonomous driving. It uses ROS and hector_mapping as well as move_it to do mapping and path planning. You can find more details [here](https://github.com/MZandtheRaspberryPi/toulouse_rover), and see a video explanation [here](https://youtu.be/9rG0YduM39s).    
 
@@ -32,6 +36,11 @@ This project uses Asyncronous Real-Time Communication (via the python aiortc lib
 
 Libraries used in include aiortc, numpy, opencv-python, and multiprocessing. In the below GIF, the window on the right has the raw frames from the server. The image on the left is overlaying a small blue dot on the calculated center, for display purposes. Unit tests, logging, config files, and more were added for code quality. Docker images and a deployment using Minikube were done as well.    
 ![great_ball_proj](great_ball_demo.gif)  
+
+### holiday_project_2023
+I designed a custom circuit and printer circuit board using a 555 timer and a 4017 decade counter to be my christmas cards for 2023.  
+![pcb_render](render_pcb_snowflakev62.png)  
+![pcb_gif](holiday_proj_2023.gif)  
 
 ### Spot Micro Robot
 This was a fun project where I 3d printed the robot, planned the hardware, assembled, and used a fellow robot builder's ROS Repo to get it walking. I contributed a bit to the robot builder's ROS repo as well. It was mainly a hardware and electronics project for me. Check it out [here](https://github.com/MZandtheRaspberryPi/spot_micro_demo).   
