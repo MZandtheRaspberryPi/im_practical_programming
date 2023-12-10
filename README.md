@@ -38,7 +38,7 @@ Libraries used in include aiortc, numpy, opencv-python, and multiprocessing. In 
 ![great_ball_proj](great_ball_demo.gif)  
 
 ### holiday_project_2023
-I designed a custom circuit and printer circuit board using a 555 timer and a 4017 decade counter to be my christmas cards for 2023. You can find the files [here](https://github.com/MZandtheRaspberryPi/holiday_project_2023).  
+I designed a custom circuit and printer circuit board using a 555 timer and a 4017 decade counter to be my christmas cards for 2023. You can find the files [here](https://github.com/MZandtheRaspberryPi/holiday_project_2023) and a video demo [here](https://youtu.be/1XaKHCftHVo).  
 ![pcb_render](render_pcb_snowflakev62.png)  
 ![pcb_gif](holiday_proj_2023.gif)  
 
