@@ -42,6 +42,22 @@ I designed a custom circuit and printer circuit board using a 555 timer and a 40
 ![pcb_render](render_pcb_snowflakev62.png)  
 ![pcb_gif](holiday_proj_2023.gif)  
 
+### my_bittle
+This is a project where I created a python library to control the petoi Bittle robot. Find the library on pypi [here](https://pypi.org/project/my-bittle/) and the repo [here](https://github.com/MZandtheRaspberryPi/my_bittle).  
+```python
+import time
+
+from my_bittle.bittle_serial_controller import BittleSerialController, BittleCommand
+
+port = "/dev/ttyS0"
+my_bittle_controller = BittleSerialController(port=port)
+
+my_bittle_controller.start()
+my_bittle_controller.command_bittle(BittleCommand.FORWARD)
+time.sleep(2)
+my_bittle_controller.stop()
+```
+
 ### Spot Micro Robot
 This was a fun project where I 3d printed the robot, planned the hardware, assembled, and used a fellow robot builder's ROS Repo to get it walking. I contributed a bit to the robot builder's ROS repo as well. It was mainly a hardware and electronics project for me. Check it out [here](https://github.com/MZandtheRaspberryPi/spot_micro_demo).   
 ![spot_micro_demo](./spot_micro_demo.gif)   
