@@ -43,20 +43,10 @@ I designed a custom circuit and printer circuit board using a 555 timer and a 40
 ![pcb_gif](holiday_proj_2023.gif)  
 
 ### my_bittle
-This is a project where I created a python library to control the petoi Bittle robot. Find the library on pypi [here](https://pypi.org/project/my-bittle/) and the repo [here](https://github.com/MZandtheRaspberryPi/my_bittle).  
-```python
-import time
+This is a project where I integrated a camera sensor, a robot dog, and a raspberry pi to control the dog with computer vision. You can see a video demo [here](). You can find one python library I created to control the robot dog [here](https://pypi.org/project/my-bittle/) and another python library to get images from the camera [here](https://pypi.org/project/my-mu3/). The demo code for integration is [here](https://github.com/MZandtheRaspberryPi/bittle_demo). A writeup blog post is [here](https://www.hackster.io/mzandtheraspberrypi/robot-dog-sees-me-64e658).  
 
-from my_bittle.bittle_serial_controller import BittleSerialController, BittleCommand
+![bittle-demo](./bittle-demo.gif)
 
-port = "/dev/ttyS0"
-my_bittle_controller = BittleSerialController(port=port)
-
-my_bittle_controller.start()
-my_bittle_controller.command_bittle(BittleCommand.FORWARD)
-time.sleep(2)
-my_bittle_controller.stop()
-```
 
 ### Spot Micro Robot
 This was a fun project where I 3d printed the robot, planned the hardware, assembled, and used a fellow robot builder's ROS Repo to get it walking. I contributed a bit to the robot builder's ROS repo as well. It was mainly a hardware and electronics project for me. Check it out [here](https://github.com/MZandtheRaspberryPi/spot_micro_demo).   
