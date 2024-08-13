@@ -9,8 +9,13 @@ This is a project where I designed, manufactured, and coded a digital compass th
 ![compass_pic_2](IMG_20231012_140624.jpg)  
 ![compass_demo](82od5m.gif)  
 
+### quadruped_learning
+This is a project where I taught a robot dog to walk in simulation. I used imitation learning and inverse reinforcement learning. Find a video demo [here](https://www.youtube.com/watch?v=ahcJJIknLHg) and the repo [here](https://github.com/MZandtheRaspberryPi/quadruped_learning).  
+![motion_retargeting](example_motion_retargeting.png)  
+
+
 ### robodanceproject.com
-This is a project where I implemented a front end in Angular and a back end in C++ to explore and visualize forward kinematics for a quadruped robot.  I deployed this using Amazon Web Service's Lightsail. Find the repo [here](https://github.com/MZandtheRaspberryPi/doggy_dance_project) and the webapp you can interact with [here](http://robodanceproject.com/).
+This is a project where I implemented a front end in Angular and a back end in C++ to explore and visualize forward kinematics for a quadruped robot.  I deployed this using Amazon Web Service's Lightsail. Find the repo [here](https://github.com/MZandtheRaspberryPi/doggy_dance_project). 
 ![robo_dance](robo_dance_project.png)  
 
 ### think_like_an_octopus
