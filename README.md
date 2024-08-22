@@ -97,6 +97,10 @@ This was a fun project to create a dataset from a winetasting I did among friend
 
 ## Smaller Projects
 
+### bike_mudgaurd
+I did some 3d-modelling and manufacturing to create a (not great) mudgaurd for my bike. Currently on v2. Find the repo [here](https://github.com/MZandtheRaspberryPi/bike_mudgaurd).  
+![mudgaurd](./20240810_105704.jpg)  
+
 ### headless_pi_setup
 A guide on how to setup a Raspberry Pi with an emphasis on security, without a keyboard or display for the Pi. See the guide [here](https://github.com/MZandtheRaspberryPi/pi_headless_setup)!   
 ![pi_guide.png](./pi_guide.png)    
