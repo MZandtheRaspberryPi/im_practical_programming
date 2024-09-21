@@ -13,14 +13,17 @@ This is a project where I designed, manufactured, and coded a digital compass th
 This is a project where I taught a robot dog to walk in simulation. I used imitation learning and inverse reinforcement learning. Find a video demo [here](https://www.youtube.com/watch?v=ahcJJIknLHg) and the repo [here](https://github.com/MZandtheRaspberryPi/quadruped_learning).  
 ![motion_retargeting](example_motion_retargeting.png)  
 
-
 ### robodanceproject.com
 This is a project where I implemented a front end in Angular and a back end in C++ to explore and visualize forward kinematics for a quadruped robot.  I deployed this using Amazon Web Service's Lightsail. Find the repo [here](https://github.com/MZandtheRaspberryPi/doggy_dance_project). 
 ![robo_dance](robo_dance_project.png)  
 
 ### think_like_an_octopus
 This was an in-depth blog post I wrote around options for python multiprocessing including threading, multiprocessing, calling C++ code, and numpy. Find the repo [here](https://github.com/MZandtheRaspberryPi/think_like_an_octopus) with a .pdf and links to the post.  
-![octopus_blog_pic](octopus_blog.PNG)
+![octopus_blog_pic](octopus_blog.PNG)  
+
+### crystal_ball
+This was a fun project where I made an orb that mounted to a cane like a witch's staff. Find the repo [here](https://github.com/MZandtheRaspberryPi/crystal_ball) with a write up and more pictures.
+![witch_staff](witch_staff.jpg)
 
 ### toulouse_rover
 This was a fun project I did to build an autonomous car, using a lidar. I did the robot design, hardware, and software by myself. It supports kinematics for differential drive, skid steering, and omni wheels, and a fourth fixed slow speed mode which is good for autonomous driving. It uses ROS and hector_mapping as well as move_it to do mapping and path planning. You can find more details [here](https://github.com/MZandtheRaspberryPi/toulouse_rover), and see a video explanation [here](https://youtu.be/9rG0YduM39s).    
