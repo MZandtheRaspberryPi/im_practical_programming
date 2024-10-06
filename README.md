@@ -21,6 +21,11 @@ This is a project where I implemented a front end in Angular and a back end in C
 This was an in-depth blog post I wrote around options for python multiprocessing including threading, multiprocessing, calling C++ code, and numpy. Find the repo [here](https://github.com/MZandtheRaspberryPi/think_like_an_octopus) with a .pdf and links to the post.  
 ![octopus_blog_pic](octopus_blog.PNG)  
 
+### mycobot
+I prepared a robot arm to pick and place objects and use computer vision for students to use in a hackathon. See more details [here](https://github.com/MZandtheRaspberryPi/mycobot).
+![full_setup](./20240926_173535.jpg)
+![demo_pic](./demo_pic_cobot.png)
+
 ### crystal_ball
 This was a fun project where I made an orb that mounted to a cane like a witch's staff. Find the repo [here](https://github.com/MZandtheRaspberryPi/crystal_ball) with a write up and more pictures.
 ![witch_staff](witch_staff.jpg)
