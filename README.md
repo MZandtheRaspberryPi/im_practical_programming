@@ -36,6 +36,10 @@ This was a fun project I did to build an autonomous car, using a lidar. I did th
 ![toulouse](./20220618_103051.jpg)
 ![autonomous_toulouse](./toulouse_demo.gif)
 
+### buddy_singer
+a repository to get a robot to sing from MIDI files. See a video demo [here](https://www.youtube.com/shorts/IcYGP01VqKk).
+![singing_screenshot](./singing_buddy.PNG)
+
 ### all_seeing_drone  
 A project to introduce autonomous movement and face-following for a robolink CoDrone. I used the CoDrone API which lets you command roll, pitch, yaw, and throttle, but built a lot of functionality on top of that to do tracking, and in some cases rewrote bits of the CoDrone API to work with my needs. See the README [here](https://github.com/MZandtheRaspberryPi/all_seeing_drone).  
 
