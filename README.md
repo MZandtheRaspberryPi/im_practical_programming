@@ -3,6 +3,32 @@ This is a landing page for a collection of scripts and projects, some practical 
 
 ## Big Projects
 
+### quadruped_control via MPC
+This was a fun project where I designed and implemented a controller using the unicycle model and model predictive control (MPC) for a quadruped. See a video demo [here](https://youtu.be/lkiq3odg65g).
+
+![quad_traj](./quad_demo.png)
+
+![quad_traj_plot](./2025_03_28_01-56-58-11.9.png)
+
+### quadruped autonomy
+This was a fun project where I created software and integrated existing software to enable an autonomy stack for the Unitree Go1 Robot. I also designed and fabricated the sensor backpack including picking hardware components and integrating them. See a video demo [here](https://youtube.com/shorts/0-Z05GkkNnk?feature=share). It uses the CMU Navigation Framework [here](https://www.cmu-exploration.com/) as a base with some glue of other modules to hold it together.
+
+This was the first test of the system. Note the crane for safety.
+![quad_auto_first_test](./20250311_171321.jpg)
+
+This is an example of what the quadruped sees:
+![quad_what_sees](./20250311_205157.jpg)
+
+I did this in simulation before doing it in the real world. You can see a sim demo [here](https://youtu.be/hgMfq3n4iZc).
+![spot_what_sees](./spot_demo_nav.png)
+
+### Travelling Salesman with Drones
+This was a project I did to solve the Travelling Salesman problem in 3D with aerial robotics. Find the code [here](https://github.com/MZandtheRaspberryPi/mapping_path_planning). I used Gazebo to simulate the system and a C++ library I created to solve a path to take pictures of aruco markers scattered throughout the environment. I wrapped the C++ library with a ROS2 interface. See a video demo [here](https://youtu.be/jcM5ZJ5zUu0).
+
+![with_gazebo](full_path_with_Gazebo.png)  
+![aruco](arucos.png)  
+![profiling](runtimes_objectives.png)  
+
 ### digital_compass
 This is a project where I designed, manufactured, and coded a digital compass that uses an inertial measurement unit (IMU) to estimate orientation in 3d-space. I implemented an extended kalman filter to (EKF) to do the estimation. Find the repo [here](https://github.com/MZandtheRaspberryPi/digital_compass). A video explanation is available [here](https://www.youtube.com/shorts/Pg_2u4VAHLg) and a video demo is available [here](https://www.youtube.com/shorts/pv6mBfAY-nU).  
 ![compass_pic](IMG_0004.jpg)  
@@ -20,6 +46,12 @@ This is a project where I implemented a front end in Angular and a back end in C
 ### think_like_an_octopus
 This was an in-depth blog post I wrote around options for python multiprocessing including threading, multiprocessing, calling C++ code, and numpy. Find the repo [here](https://github.com/MZandtheRaspberryPi/think_like_an_octopus) with a .pdf and links to the post.  
 ![octopus_blog_pic](octopus_blog.PNG)  
+
+### robo_tentacle
+This is a project where I designed a soft robotic manipulator based on continuum manipulators. I then made the mould, the robot by casting sillicon, and got it to pick objects up. See a video demo [here](https://youtube.com/shorts/yAXXw5yY0Hg?feature=share).
+
+![robopickup](./robot_tentacle1.png)
+![robohold](./robo_tentacle2.png)
 
 ### mycobot
 I prepared a robot arm to pick and place objects and use computer vision for students to use in a hackathon. See more details [here](https://github.com/MZandtheRaspberryPi/mycobot).
@@ -97,6 +129,11 @@ This was a magical light box I built for a friend getting married. It has animat
 ### Buddy Robot Dance with ROS
 This was a fun project to get a robot to dance using ROS. I used a robot from Slant Concepts and re-coded it to work with ROS, via rosserial and a bluetooth connection. Check it out [here](https://github.com/MZandtheRaspberryPi/ros_buddy).    
 ![buddy_dance](./buddy_dance.gif)    
+
+### go2 wheels backback
+I seem to build a lot of robot backpacks, with sensors and such to do autonomy. See another video demo [here](https://youtu.be/0aYjFsQXcZs).
+
+![go2backpack](./go2backpack.png)
 
 ### Pi Watch    
 This was a project to make a raspberry pi watch that can check buses near my apartment, show the weather, and turn off with button presses. Check out the repo [here](https://github.com/MZandtheRaspberryPi/pi_watch) and a video showing off the project [here](https://www.youtube.com/watch?v=JhEXCvS3W6M).    
