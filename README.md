@@ -29,6 +29,11 @@ This was a project I did to solve the Travelling Salesman problem in 3D with aer
 ![aruco](arucos.png)  
 ![profiling](runtimes_objectives.png)  
 
+### drone_swarm
+This was a group project I did to control swarms of drones through various obstacles. I implemented a model predictive controller for a flexible number of drones that tracked reference trajectories, allowing transitions between formations like squares and arrows while tracking. See a video demo [here](https://youtu.be/StXTDl_aGLg).  
+![swarm1](swarm1.png)  
+![swarm2](swarm2.png)
+
 ### digital_compass
 This is a project where I designed, manufactured, and coded a digital compass that uses an inertial measurement unit (IMU) to estimate orientation in 3d-space. I implemented an extended kalman filter to (EKF) to do the estimation. Find the repo [here](https://github.com/MZandtheRaspberryPi/digital_compass). A video explanation is available [here](https://www.youtube.com/shorts/Pg_2u4VAHLg) and a video demo is available [here](https://www.youtube.com/shorts/pv6mBfAY-nU).  
 ![compass_pic](IMG_0004.jpg)  
