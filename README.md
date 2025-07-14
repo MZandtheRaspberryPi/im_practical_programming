@@ -31,8 +31,8 @@ This was a project I did to solve the Travelling Salesman problem in 3D with aer
 
 ### drone_swarm
 This was a group project I did to control swarms of drones through various obstacles. I implemented a model predictive controller for a flexible number of drones that tracked reference trajectories, allowing transitions between formations like squares and arrows while tracking. See a video demo [here](https://youtu.be/StXTDl_aGLg).  
-![swarm1](swarm1.png)  
-![swarm2](swarm2.png)
+![swarm1](swarm1.PNG)  
+![swarm2](swarm2.PNG)
 ![swarmmpc1](mpc_tuning.png)  
 ![swarmmpc2](mpc_diagram.png)
 
