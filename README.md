@@ -34,7 +34,7 @@ This was a group project I did to control swarms of drones through various obsta
 ![swarm1](swarm1.PNG)  
 ![swarm2](swarm2.PNG)
 ![swarmmpc1](mpc_tuning.png)  
-![swarmmpc2](mpc_diagram.png)
+![swarmmpc2](mpc_diagram.PNG)
 
 ### digital_compass
 This is a project where I designed, manufactured, and coded a digital compass that uses an inertial measurement unit (IMU) to estimate orientation in 3d-space. I implemented an extended kalman filter to (EKF) to do the estimation. Find the repo [here](https://github.com/MZandtheRaspberryPi/digital_compass). A video explanation is available [here](https://www.youtube.com/shorts/Pg_2u4VAHLg) and a video demo is available [here](https://www.youtube.com/shorts/pv6mBfAY-nU).  
