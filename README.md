@@ -75,6 +75,12 @@ I prepared a robot arm to pick and place objects and use computer vision for stu
 ![full_setup](./20240926_173535.jpg)
 ![demo_pic](./demo_pic_cobot.png)
 
+### Bug0/1 with Quarduped
+
+This was a project where I implemented grid-mapping based on a simulated lidar and integrated this with a local planner Bug0 and Bug1 to navigate to waypoints provided via RVIZ.
+
+![bug0](./2025-10-14-132155.png)
+
 ### crystal_ball
 This was a fun project where I made an orb that mounted to a cane like a witch's staff. Find the repo [here](https://github.com/MZandtheRaspberryPi/crystal_ball) with a write up and more pictures.
 ![witch_staff](witch_staff.jpg)
