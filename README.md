@@ -64,6 +64,12 @@ This is a project where I designed a soft robotic manipulator based on continuum
 ![robopickup](./robot_tentacle1.png)
 ![robohold](./robo_tentacle2.png)
 
+### led_catan
+
+This was a project where I designed and fabricated a Settlers of Catan inspired game board. It used custom circuit boards for hexagonal tiles underneath a 3d-printed game board that diffused the lights. It can randomize the board, and remembers the current game board if a power-outtage occurs.
+
+![catan](./20251011_211733.jpg)
+
 ### mycobot
 I prepared a robot arm to pick and place objects and use computer vision for students to use in a hackathon. See more details [here](https://github.com/MZandtheRaspberryPi/mycobot).
 ![full_setup](./20240926_173535.jpg)
