@@ -162,6 +162,12 @@ I seem to build a lot of robot backpacks, with sensors and such to do autonomy. 
 This was a project to make a raspberry pi watch that can check buses near my apartment, show the weather, and turn off with button presses. Check out the repo [here](https://github.com/MZandtheRaspberryPi/pi_watch) and a video showing off the project [here](https://www.youtube.com/watch?v=JhEXCvS3W6M).    
 ![pi_watch.gif](./pi_watch.gif)   
 
+### 2025 Halloween Pumpkin Award
+This was a project to make a 3d-printed pumpkin with lights inside as an award for the 2025 Best Pumpkin, voted during our annual pumpkin carving contest. See the repo [here](https://github.com/MZandtheRaspberryPi/halloween_pumpkin2025).
+
+![pumpkin_reward](IMG-20251026-WA0011.jpg)  
+![all_pumpkins](IMG-20251026-WA0004.jpg)
+
 ### Tableau Wine Night
 This was a fun project to create a dataset from a winetasting I did among friends. From there I analyzed the data, created metrics, and presented an interactive visualization on it via Tableau Public. Find it [here](https://public.tableau.com/app/profile/michael.ziegltrum/viz/WineNight/TheStoryofWineNight).  
 ![wine_night](./wine_night.PNG)  
