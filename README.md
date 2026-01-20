@@ -22,6 +22,12 @@ This is an example of what the quadruped sees:
 I did this in simulation before doing it in the real world. You can see a sim demo [here](https://youtu.be/hgMfq3n4iZc).
 ![spot_what_sees](./spot_demo_nav.png)
 
+### robo_drawing
+
+I made a Kinematics and Trajectory Workshop based on drawing shapes with robot arms and taught it to 20 students. There is one version of the workshop where students have to do all the math themselves ([here](https://github.com/MZandtheRaspberryPi/ros_sim/blob/main/README.md)) and I made an expansive assignment with guided questions and structured code they insert their math into ([here])(https:://badlink.com). There is another version where the students don't have to do any math, rather they input a set of waypoints and the robot will draw their shape. See one video demo on a small educational robot, the MyCobot 280 Raspberry Pi edition, that we used for the workshop [here](https://www.youtube.com/shorts/JGbJK4ZtMNg). See a video demo on a Franka Panda arm that I did for comparison purposes [here](https://www.youtube.com/shorts/GrULKwoRGd8). All twenty students got the small robots moving!
+
+![drawing_robot](./franka_ex.jpeg)
+
 ### Travelling Salesman with Drones
 This was a project I did to solve the Travelling Salesman problem in 3D with aerial robotics. Find the code [here](https://github.com/MZandtheRaspberryPi/mapping_path_planning). I used Gazebo to simulate the system and a C++ library I created to solve a path to take pictures of aruco markers scattered throughout the environment. I wrapped the C++ library with a ROS2 interface. See a video demo [here](https://youtu.be/jcM5ZJ5zUu0).
 
