@@ -46,6 +46,12 @@ This was a group project I did to control swarms of drones through various obsta
 This is a project where I designed a circuit board and programmed it with a state estimator and a fluid simulator as a gift for a professor. See a video demo [here](https://www.youtube.com/shorts/ypMqFLmJ22k) and the repo [here](https://github.com/MZandtheRaspberryPi/cuppa).  
 ![cuppa_Gif](cuppa_gif.gif)  
 
+### winter_school
+I led workshops for  visiting students from one of China's top universities while working at University College London. I presented mathematics for modelling robot motion using an iPad to write the lecture in real time letting students follow along. Then I led students into an approachable cross-platform software framework I developed to guide them in trajectory following tasks with a real robot, the  Unitree Go2-W. They wrote code that I deployed on the robot and each student group was able to achieve the closed-loop control objectives. Find the math and code [here](https://github.com/MZandtheRaspberryPi/trajectory_workshop).
+
+![lecture_winter](./img-winter-school.jpg)  
+![lecture_winter2](./IMG-20260130-WA0006.jpg)  
+
 ### digital_compass
 This is a project where I designed, manufactured, and coded a digital compass that uses an inertial measurement unit (IMU) to estimate orientation in 3d-space. I implemented an extended kalman filter to (EKF) to do the estimation. Find the repo [here](https://github.com/MZandtheRaspberryPi/digital_compass). A video explanation is available [here](https://www.youtube.com/shorts/Pg_2u4VAHLg) and a video demo is available [here](https://www.youtube.com/shorts/pv6mBfAY-nU).  
 ![compass_pic](IMG_0004.jpg)  
