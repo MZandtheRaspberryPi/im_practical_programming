@@ -165,6 +165,11 @@ This was a magical light box I built for a friend getting married. It has animat
 This was a fun project to get a robot to dance using ROS. I used a robot from Slant Concepts and re-coded it to work with ROS, via rosserial and a bluetooth connection. Check it out [here](https://github.com/MZandtheRaspberryPi/ros_buddy).    
 ![buddy_dance](./buddy_dance.gif)    
 
+### Aluminium Witch Pendant
+This is a project where I designed a witch inspired (the good kind) pendant and then fabricated it as an intro to CNC Machining.
+![picture_of_witch_pendant](20251213_133001.jpg)   
+![picture_during_machining](20251209_162628.jpg)  
+
 ### go2 wheels backback
 I seem to build a lot of robot backpacks, with sensors and such to do autonomy. See another video demo [here](https://youtu.be/0aYjFsQXcZs).
 
