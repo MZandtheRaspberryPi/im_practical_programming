@@ -168,6 +168,7 @@ This was a fun project to get a robot to dance using ROS. I used a robot from Sl
 ### Aluminium Witch Pendant
 This is a project where I designed a witch inspired (the good kind) pendant and then fabricated it as an intro to CNC Machining.
 ![picture_of_witch_pendant](20251213_133001.jpg)   
+![pendant_frontal](20251210_174051.jpg)  
 ![picture_during_machining](20251209_162628.jpg)  
 
 ### go2 wheels backback
